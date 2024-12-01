@@ -1,0 +1,2 @@
+https://github.com/telegram-mini-apps-dev/awesome-telegram-mini-apps
+https://blog.logrocket.com/building-telegram-mini-apps-react/#build-ecommerce-telegram-mini-app-react-node-js
